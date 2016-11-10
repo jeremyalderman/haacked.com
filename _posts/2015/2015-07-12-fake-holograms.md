@@ -6,7 +6,7 @@ comments: true
 categories: [science holography]
 ---
 
-This past week I learned a new party trick. I can turn a holographic researcher beet red by simply referencing [Tupac's Hologram](https://www.youtube.com/watch?v=TGbrFmPBV0Y). It's not because they [identify strongly with East Coast hip-hop](https://en.wikipedia.org/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry). Rather, it has to do with calling it a hologram in the first place.
+This past week I learned a new party trick. I can turn a holographic researcher beet red by simply referencing [Tupac's Hologram](http://www.rezin8.com/portfolio/coachella-tupac-shakur-holographic-performance/). It's not because they [identify strongly with East Coast hip-hop](https://en.wikipedia.org/wiki/East_Coast%E2%80%93West_Coast_hip_hop_rivalry). Rather, it has to do with calling it a hologram in the first place.
 
 ![Tupac's Peppers Ghost](https://cloud.githubusercontent.com/assets/19977/8639982/09eb02f2-289d-11e5-93d7-84000322ad57.png)
 
